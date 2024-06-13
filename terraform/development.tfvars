@@ -1,0 +1,6 @@
+project_name  = "trainingdevops"
+project_env   = "development"
+instance_type = "t2.micro"
+key_name      = "devops"
+domain_name   = "dev.trainingdevops.cloud"
+hostname      = "cafe"
